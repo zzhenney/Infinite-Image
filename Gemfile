@@ -8,7 +8,7 @@ gem 'bootstrap-sass'
 gem 'bootstrap', '~> 4.1.1'
 gem 'jquery-rails'
 gem 'sprockets-rails', :require => 'sprockets/railtie'
-gem 'clearance', '~> 1.12', '>= 1.12.1'
+gem 'clearance', '~> 2.5'
 
 
 #Added 7/11/18      Paul Ancajima
