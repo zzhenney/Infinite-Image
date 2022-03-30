@@ -53,7 +53,7 @@ gem "google-cloud-storage", "~> 1.8", require: false
 # USE PG INSTEAD FOR HEROKU DEPLOYMENT
 #gem "pg", "0.21.0"
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
